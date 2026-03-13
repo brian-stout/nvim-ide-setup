@@ -1,7 +1,13 @@
 Set up
+
 ```git clone https://github.com/brian-stout/nvim-ide-setup  $ENV:USERPROFILE\AppData\Local\nvim; nvim```
+
+Inside nvim
+
 ```:MasonInstall```
+
 ```:TSInstallAll```
+
 ```Lazy sync```
 
 # Credits
