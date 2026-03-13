@@ -1,8 +1,8 @@
  - [ ] Setup release for offline portable install
- - [ ] Setup local installs for dependencies
- - [ ] ripgrep
- - [ ] python
- - [ ] luarocks
+     - [ ] Setup local installs for dependencies
+     - [ ] ripgrep
+     - [ ] python
+     - [ ] luarocks
 
 Set up
 
