@@ -4,6 +4,9 @@
      - [ ] python
      - [ ] luarocks
      - [ ] npm
+     - [ ] gdformat in path
+     - [ ] pip install gdtoolkit
+     - [ ] npm install -g tree-sitter-cli
 
 Set up
 
