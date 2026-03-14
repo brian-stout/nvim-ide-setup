@@ -3,6 +3,7 @@
      - [ ] ripgrep
      - [ ] python
      - [ ] luarocks
+     - [ ] npm
 
 Set up
 
